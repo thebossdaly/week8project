@@ -1,0 +1,40 @@
+button {
+    background-color: rgb(235, 160, 160);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: darkred;
+}
+
+h1 {
+    color: white
+}
+
+table, th, td {
+    color: black;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 20%
+    
+}
+
+
+h2 {
+    color: white
+}
+
+.site-link {
+    color: black;
+}
+
+.Schedule {
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+
+.schedule-h2 {
+    text-align: center;
+}
